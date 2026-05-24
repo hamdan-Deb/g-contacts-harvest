@@ -1,11 +1,8 @@
-<img width="1280" height="693" alt="after running the code" src="https://github.com/user-attachments/assets/0789a683-fdf9-4374-a22c-14855e16b1fb" /># Google Contacts Anchor Harvester
-
 A lightweight browser-console tool designed to harvest and export large Google Workspace Contacts directories to an Excel-safe CSV file. 
 
 This script features **Slow Network Pacing** to allow dynamic directories to load reliably on slower connections, along with a **Fast-Forward Resume System** to help recover from unexpected page reloads or network drops without losing your place.
 
-![Google Contacts Anchor Harvester Demo after running the code.gif…]()!
-
+<img src="./codeUp.gif" alt="after running the code" width="100%">
 
 ## Features
 
